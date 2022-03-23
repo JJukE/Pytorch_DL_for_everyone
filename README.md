@@ -9,10 +9,7 @@
 
 * Github: https://github.com/deeplearningzerotoall/PyTorch
 * Slide: http://bit.ly/2VrZcWM
-* YouTube: http://bit.ly/2UVk3kn
-
-### Docker 사용자를 위한 안내
-동일한 실습 환경을 위해 docker 를 사용하실 분은 docker_user_guide.md 파일을 참고하세요! :)
+* YouTube: http://bit.ly/2UVk3kn  
 
 * Install Requirements  
 `pip install -r requirements.txt`
