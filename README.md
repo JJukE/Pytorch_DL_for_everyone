@@ -11,9 +11,9 @@
 * Slide: http://bit.ly/2VrZcWM
 * YouTube: http://bit.ly/2UVk3kn  
 
-* Install Requirements  
+Install Requirements  
 `pip install -r requirements.txt`
-
+  
 Install PyTorch from website: https://pytorch.org/
 
 ## PyTorch
