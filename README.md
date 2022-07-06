@@ -1,6 +1,8 @@
 # Pytorch_DL_for_everyone
 파이토치 익히기 위해 '모두를 위한 딥러닝' 수강
 
+자세한 내용 : [Blog](https://jjuke-brain.tistory.com/category/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%26%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%A7%88%EC%9D%B4%EB%8B%9D/Pytorch)
+
 # 모두를 위한 딥러닝 시즌2 : 모두가 만드는 모두를 위한 딥러닝
 모두가 만드는 모두를 위한 딥러닝 시즌 2에 오신 여러분들 환영합니다.
 
